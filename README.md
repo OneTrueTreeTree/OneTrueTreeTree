@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OneTrueTreeTree!
+- 👀 I’m interested in AI, LLMs, and CGI
+- 🌱 I’m currently learning Python and Blender
+- 📫 Reach me at bendyer08@gmail.com
