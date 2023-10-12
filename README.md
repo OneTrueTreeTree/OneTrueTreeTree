@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Ben!
 - 👀 I’m interested in AI, LLMs, and CGI
 - 🌱 I’m currently learning Python and Blender
+- 💼 I'm a student in Australia
 - 📫 Reach me at bendyer08@gmail.com
+- ✏ I'm working on a repo project called JPT
