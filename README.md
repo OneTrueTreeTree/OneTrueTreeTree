@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ben!
 - 👀 I’m interested in AI, LLMs, and CGI
-- 🌱 I’m currently learning Python, C++, and Blender
-- 💼 I'm a student in Australia
+- 🌱 I’m currently learning Unity, Maya, C#, and the fundamentals of Game Design
+- 💼 I'm a student in Australia, studying a Bachelor of Games and Interactive Environments at QUT
 - 📫 Reach me at bendyer08@gmail.com
-- ✏ I'm working on a repo project called JPT
